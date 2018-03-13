@@ -24,7 +24,10 @@ function appendKitten(name) {
   return arr
 }
 
-function 
+function prependKitten(name) {
+  var arr = [name, ...kittens]
+  return kittens
+}
 
 
 
