@@ -29,7 +29,23 @@ function prependKitten(name) {
   return arr
 }
 
-function 
+function removeLastKitten() {
+  var arr = kittens.slice(kittens.length)
+  return arr
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
