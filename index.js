@@ -19,4 +19,16 @@ function destructivelyRemoveFirstKitten() {
   return kittens
 }
 
-function 
+function appendKitten(name) {
+  var arr = [kittens..., name]
+  return arr
+}
+
+
+
+
+
+
+
+
+
