@@ -1,5 +1,5 @@
 const app = "I don't do much."
 function destructivelyAppendKitten (name) {
-  [...kittens, name]
-  return name
+  var arr = [...kittens, name]
+  return arr
 }
